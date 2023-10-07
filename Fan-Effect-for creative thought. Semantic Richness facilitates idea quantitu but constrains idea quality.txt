@@ -1,0 +1,987 @@
+Running Head: FANNING CREATIVE THOUGHT
+
+A Fan Effect for Creative Thought:
+Semantic Richness Facilitates Idea Quantity but Constrains Idea Quality
+Roger E. Beaty? Yoed N. Kenett®, Richard W. Hass, & Daniel L. Schacter?
+2 Department of Psychology, Pennsylvania State University, University Park, PA
+Department of Psychology, University of Pennsylvania, Philadelphia, PA
+¢ Department of Psychology, Thomas Jefferson University, Philadelphia, PA
+
+4Department of Psychology, Harvard University, Cambridge, MA
+
+Author Note
+
+Correspondence should be addressed to Roger Beaty, Department of Psychology, 140 Moore
+
+Building, University Park, PA, 16801, USA; rebeaty@psu.edu.
+Running Head: FANNING CREATIVE THOUGHT
+
+Abstract
+Creative thinking has long been associated with spreading of activation through concepts within semantic
+memory. Despite its theoretical importance, little is yet known about how semantic memory structure
+facilitates and constrains idea production. We examine one potential influence on spreading activation
+during divergent thinking known as the fan effect. increasing knowledge about a concept leads to increasing
+interference from conceptually related information. Specifically, we tested whether cue association size—
+an index of semantic richness reflecting the average number of elements associated with a given concept—
+impacts the quantity (fluency) and quality (originality) of responses generated during the alternate uses task
+(AUT). We hypothesized that low-association AUT cues should benefit originality at the cost of fluency
+because such cues are embedded within a semantic network with fewer conceptual elements, thus yielding
+lesser interference from closely-related concepts. This hypothesis was confirmed in three experiments.
+Furthermore, we found an interaction with individual differences in fluid intelligence in the low-association
+AUT cues, suggesting that constraints of sparse semantic knowledge can be overcome with top-down
+intervention. The findings indicate that semantic richness differentially impacts the quality and quantity of
+generated ideas, and that cognitive control processes can facilitate idea production when conceptual
+
+knowledge is limited.
+
+Keywords: creativity, divergent thinking, fan effect, fluid intelligence, semantic memory
+Running Head: FANNING CREATIVE THOUGHT
+
+A Fan Effect for Creative Thought:
+Semantic Richness Facilitates Idea Quantity but Constrains Idea Quality
+
+Creativity theories have long emphasized the role of semantic memory for creative thought (Beaty
+& Schacter, 2018; Hass & Beaty, 2018; Kenett, 2018b; Kenett, Anaki, & Faust, 2014; Kenett et al., 2018;
+Mednick, 1962). Semantic memory stores facts, concepts, and general knowledge that can be retrieved and
+combined in new ways to facilitate creative thinking. According to the associative theory of creativity
+(Mednick, 1962), creative thinking is related to the ability to connect concepts in memory that are weakly
+related, or “far away” from each other, in a novel and appropriate way—analogous to the process of
+spreading of activation through concepts in semantic memory (Collins & Loftus, 1975). Thus, as the
+semantic “distance” between two concepts increases, so does the likelihood of the combined concept being
+
+deemed creative (Green, 2016; Kenett, 2018a, 2018b; Mednick, 1962).
+
+Despite the theoretical relevance of semantic memory for creative thinking, little empirical work
+has examined its specific cognitive contributions to creative task performance (Benedek & Neubauer, 2013;
+Kenett & Faust, 2019), leaving open questions about how and when this memory system impacts creative
+thought processes (Beaty, Christensen, Benedek, Silvia, & Schacter, 2017; Kenett, 2018b). Although
+semantic memory is undoubtedly necessary for creative processes such as conceptual combination or
+imagination (Abraham, 2014; Abraham & Bubic, 2015), research has also documented constraints of
+semantic knowledge on creative performance such as functional fixedness—a biasing of attention to salient
+conceptual features that prevents cognitive flexibility (Chrysikou, Motyka, Nigro, Yang, & Thompson-
+Schill, 2016; Chrysikou & Weisberg, 2005). In the present research, we aim to shed further light on the
+benefits and costs of semantic memory to creative thought by examining a classic experimental finding in
+semantic memory research known as the fan effect—a tendency for increased concept knowledge to impact
+
+retrieval mechanisms (Anderson, 1974; Anderson & Reder, 1999).
+Running Head: FANNING CREATIVE THOUGHT
+
+Creative Thinking and Semantic Memory
+
+The associative theory of creativity (Mednick, 1962) proposes that creative individuals have a
+richer and more flexible associative network than less creative individuals. According to this theory
+(Mednick, 1962), creative individuals are characterized by “flat” (more and broader associations to a given
+concept) instead of “steep” associational hierarchies (few, common associations to a given concept; but see
+Benedek & Neubauer, 2013). Thus, creative individuals may have more associative links between concepts
+in their semantic memory and can connect associative relations faster than less creative individuals, thereby
+facilitating more efficient search processes (Kenett, 2018b; Volle, 2018). Thus, when attempting to think
+creatively, the less creative individual is likely to become “stuck” on these dominant, common, associations
+whereas the more creative individual can overcome them and proceed to establishing more distant
+associations, via spreading activation (Kenett & Austerweil, 2016). Within this framework, semantically
+“close” concepts are considered less likely to be creative, whereas semantically “distant” concepts are often
+
+considered creative (Heinen & Johnson, 2018; Kenett, 2018a).
+
+While still debated (Benedek & Neubauer, 2013), the associative theory of creativity has received
+recent empirical support from computational investigations of individual differences in creative thinking
+(Benedek et al., 2017; Christensen, Kenett, Cotter, Beaty, & Silvia, 2018; Kenett, Beaty, Silvia, Anaki, &
+Faust, 2016; Kenett et al., 2018). For example, Kenett and colleagues conducted a network analysis of free
+association data to compare the semantic network structure of high- and low-creative individuals—defined
+by performance on a battery of creative thinking tasks—and found that, compared to the low-creative group,
+the high creative group showed a more “flexible” network structure characterized by higher connectivity
+and lower overall distances between concepts in their semantic network (Kenett et al., 2014), likely
+permitting more efficient spreading activation processes to unfold. These findings have since been
+replicated and extended in other group-based analyses (Gray et al., 2019; Kenett et al., 2016; Kenett et al.,
+2018), as well as at the individual level, including a study that estimated semantic networks and examined
+
+how properties of individual’s semantic networks relate to creative performance (Benedek et al., 2017). A
+Running Head: FANNING CREATIVE THOUGHT
+
+similar network structure was also reported in a recent study of openness to experience—a personality trait
+linked to creative behavior and cognition (Christensen et al., 2018)—providing further support for the role
+
+of semantic memory in creativity (Kenett & Faust, 2019; Volle, 2018).
+
+Cognitive Fixation and Executive Control
+
+Despite growing empirical support for the associative theory of creativity, past work has
+demonstrated constraining effects of semantic memory on creative performance, including fixating on
+stereotypical object information (i.e., functional fixedness; Chrysikou et al., 2016; Chrysikou & Weisberg,
+2005; Glucksberg & Weisberg, 1966), biasing idea generation with salient examples (Beaty et al., 2017,
+Chrysikou et al., 2016; Marsh, Landau, & Hicks, 1996; Smith, Ward, & Schumacher, 1993), and priming
+incorrect solutions on the remote associates test (Smith & Blankenship, 1991). These findings contribute to
+a growing literature on the role of cognitive control in creative thought (Beaty, Benedek, Silvia, & Schacter,
+2016; Benedek, Jauk, Sommer, Arendasy, & Neubauer, 2014; Chrysikou, 2019; Nusbaum & Silvia, 2011).
+This work has highlighted the involvement of executive and strategic aspects of cognition required to
+manage and direct memory processes, including pre-potent response inhibition (Benedek et al., 2014),
+broad retrieval ability (Avitia & Kaufman, 2014; Silvia, Beaty, & Nusbaum, 2013), and category switching
+(Nusbaum & Silvia, 2011). The joint contributions of spreading activation (bottom-up) and cognitive
+control mechanisms (top-down) are consistent with dual-process models of creative cognition (Barr,
+Pennycook, Stolz, & Fugelsang, 2015; Kleinmintz, Ivancovsky, & Shamay-Tsoory, 2019; Sowden, Pringle,
+& Gabora, 2014; Volle, 2018). In general, dual processes theories posit that creative thinking involves a
+dynamic interaction between idea generation and idea evaluation, corresponding to memory retrieval and
+cognitive control processes, respectively; notably, the extent to which these processes operate in serial or
+parallel remains unclear (Sowden et al., 2014).
+
+To characterize the cognitive dynamics of creative thinking, researchers have examined a temporal
+trend in idea production known as the serial order effect (Acar, Chen, & Cayirdag, 2018; Beaty, Silvia,
+
+Nusbaum, Jauk, & Benedek, 2014; Christensen, Guilford, & Wilson, 1957; Hass & Beaty, 2018; Wang,
+Running Head: FANNING CREATIVE THOUGHT
+
+Hao, Ku, Grabner, & Fink, 2017). The serial order effect is the tendency for responses to a divergent
+thinking test to become less frequent and more original over time. This temporal trend has been explained
+within the associative theory of creativity: at the beginning of an idea generation task (e.g., thinking of
+alternate uses for a common object), fluency is high because people typically begin by activating the rich
+semantic neighborhood surrounding the object cue, thus producing known uses for the object (Gilhooly,
+Fioratou, Anthony, & Wynn, 2007). Likewise, originality is high later in task because it takes time for
+spreading activation processes to unfold (i.e., to reach more distal concepts within a semantic network;
+(Collins & Loftus, 1975; Mednick, 1962). This temporal process, however, does not appear to be constant
+across individuals (cf. Rominger et al., 2019); for example, Beaty and Silvia (2012) examined individual
+differences in the serial order effect and found that it interacted with fluid intelligence (Gf): as Gf increased,
+the serial order effect for originality diminished (see also Hass, 2017). Time was thus less relevant for
+originality at higher levels of intelligence, suggesting that cognitive control may mitigate early sources of
+
+semantic interference.
+
+The Present Research
+
+Past research has shed light on the contribution of semantic memory to creative cognition. At the
+individual level, for example, a more “flexible” network structure has been shown to facilitate creative idea
+generation (Beaty et al., 2014; Benedek et al., 2017; Kenett, 2019; Kenett et al., 2014). On the other hand,
+the activation of salient conceptual knowledge can constrain creative thought (Beaty et al., 2017, Smith &
+Blankenship, 1991). Together, these findings indicate that the organization of and access to concepts in
+semantic memory plays a key role in how they are retrieved during creative task performance. This work
+thus raises a fundamental question for creativity research; namely, how and when does semantic memory
+structure facilitate and constrain creative thought?
+
+In the present research, we sought to address this question by exploring a classic finding in semantic
+memory research known as the fan effect. A fan effect is a memory phenomenon whereby increasing
+
+knowledge about a concept (or cue) leads to an increase in reaction time and accuracy on recognition
+Running Head: FANNING CREATIVE THOUGHT
+
+memory tests (Anderson, 1974; Anderson & Reder, 1999; Radvansky, 1999). The fan effect stems from the
+activation of competing concepts in memory. In the original work, Anderson (1974) showed that increasing
+the presentation of to-be-remembered items (i.e., propositional phrases) over the course of an encoding
+phase slowed reaction time (RT) and impaired accuracy in a subsequent recognition test. This RT lag has
+been attributed to an exhaustive, serial search process through all items, whereas the accuracy deficit relates
+to the proportion of accumulated knowledge and associative strength between concepts (Anderson & Reder,
+1999). To overcome such semantic interference, Radvansky (1999) proposed an inhibitory mechanism that
+functions to suppress highly related memory traces. This contention received support from individual
+differences research on working memory capacity (WMC: Bunting, Conway, & Heitz, 2004). Consistent
+with the theory of WMC as controlled/executive attention (Kane, Bleckley, Conway, & Engle, 2001),
+Bunting and colleagues (2004) found that high-WMC buffered against the fan effect: compared to low-
+WMC participants, high-WMC participants showed faster RT and more accurate recognition (but not
+learning; i.e., the groups took the same amount of time to learn materials) when studying a series of
+
+unrelated sentences with shared concepts (i.e., fans).
+
+Considered in the context of the associative theory of creativity, the fan effect offers an interesting
+paradigm to further probe the role of semantic memory in creative cognition. Does more or less knowledge
+about a concept influence how one thinks creatively with that concept? On the one hand, the associative
+theory posits that greater semantic richness facilitates spreading activation via more associative elements
+and connections (Mednick, 1962); in other words, the semantic infrastructure afforded by extensive concept
+knowledge makes spreading activation easier. In the context of a divergent thinking task (or similar task
+involving idea generation), additional semantic knowledge may promote greater fluency as people “have
+more to say” about the topic/concept. On the other hand, an executive interpretation of the fan effect views
+semantic richness as potentially detrimental to originality, because most closely-connected concepts are
+highly conceptually related and thus not novel. Indeed, the fan effect is considered a source of interference
+
+in recognition memory paradigms (Anderson, 1974; Anderson & Reder, 1999). However, such semantic
+Running Head: FANNING CREATIVE THOUGHT
+
+interference can be overcome via suppressing its activation, as evidenced in studies of individual differences
+
+in executive control (Bunting et al., 2004).
+
+We conducted a series of experiments to test for the existence and impact of a fan effect in divergent
+thinking. To this end, we selected cue words (i.e., common objects) for the classic Alternate Uses Task
+(AUT; Kaufman, Plucker, & Baer, 2008; Runco & Acar, 2012; Torrance, 1972) that varied in semantic
+richness, defined as the average number of associations linked to the cue words based on free association
+norms (Nelson, McEvoy, & Schreiber, 2004). We reasoned that, compared to low-association object cues,
+high-association cues may yield a greater number of ideas (i.e., higher fluency) because such cues are
+presumably embedded within more densely connected semantic networks. However, in light of past work
+on the interfering effects of close conceptual knowledge, we expected that this fluency benefit may come
+at the cost of originality as these ideas are likely to be less semantically distant (Study 1). At the same time,
+the relative sparseness of low-association cue neighborhoods may hinder spreading activation to distal
+concepts in the absence of a robust semantic infrastructure. To probe temporal dynamics of idea generation
+as a function of fan size, we tracked the serial order of response production (Study 2). We also examined
+
+whether people high in cognitive control ability may be more immune to potential fan effects (Study 3).
+
+Study 1
+
+In Study 1, we aimed to test for the existence of a fan effect in divergent thinking performance. To
+this end, we developed an experimental manipulation of cue type in the Alternative Uses Task (AUT), a
+commonly used assessment of divergent creative thinking (Kaufman et al., 2008; Runco & Acar, 2012).
+We identified AUT cues (i.e., common objects) that varied as a function of cue association set size—an
+index of semantic richness defined as the average number of free associations generated by participants in
+a widely used free association norms dataset (Nelson et al., 2004)—thus yielding high-association cues
+(i.e., “high-fan”) and low-association cues (i.e., “low-fan™). We hypothesized that, compared to the low-
+fan condition, participants would generate significantly more AUT responses in the high-fan condition due
+
+to increased semantic richness of items related to these cues. Furthermore, we hypothesized that this fluency
+Running Head: FANNING CREATIVE THOUGHT
+
+benefit would come at a cost of originality, such that participants would generate AUT responses rated as
+more original in the low-fan condition due to a decreased presence of salient and highly-conceptually
+related (i.e., unoriginal) concepts.
+Method
+
+Participants
+
+Forty participants were recruited for the study via Amazon Mechanical Turk (AMT; Buhrmester,
+Kwang, & Gosling, 2011). Participants were offered $3.00 compensation for completion of the entire study.
+No participants’ work was rejected (i.e., all 40 participants were paid), however, a pre-analysis screening
+procedure identified 4 participants that failed to provide responses for all 10 cues and thus did not follow
+instructions. The final sample size for analysis was 36 participants (19 female) with an average age of 36.34
+years (SD = 11.71).
+Materials
+
+Stimuli. We began by constructing a list of low- and high-fan cues for the AUT. Low- and high-
+fan cues were selected from the University of South Florida Free Association Norms database, which
+includes norms for 5,018 cue words (Nelson et al., 2004). Importantly, for each of these cue words, the
+database lists the number and types of different associative responses that were generated to these cue
+words. The number of associative responses to a cue word was used as a proxy of fan size of the cue word
+(i.e., cue set size). Of the 5,018 cue words, we manually selected cue words of concrete objects that can be
+used in a DT task. Finally, a list of five low-fan (clock, fork, lamp, lens, pen) and five high-fan (soap, rope,
+stick, marble, balloon) cues were retained. These cue words were matched on key linguistic variables:
+frequency (high-fan M = 21.4, SD = 10.97; low-fan M = 16.4, SD = 3.29; #8) = 1.00, p = .35) and
+concreteness (high-fan M = 6.09, SD = 23; low-fan M = 5.88, SD = .67; #(8) = .66, p = .53). Critically, the
+average set size of the high-fan cues (M = 22, SD = 1.22) was significantly greater than the average set size
+
+of the low-fan cues (M = 6.6, SD = 1.51; #8) = 17.67, p < .001).
+Running Head: FANNING CREATIVE THOUGHT
+
+Divergent thinking task. For each of the ten cue words (low- and high-fan), participants had two
+minutes to generate as many alternate uses as possible. Two main measures were computed from
+participants AUT performance: originality (i.e., average subjective rating) and fluency (i.e., sum of
+responses). Originality was rated on a 5-point scale designed for cognitive studies of divergent thinking
+(Hass, Rivera, & Silvia, 2018).
+
+Procedure
+
+Divergent thinking tasks were administered online via Qualtrics (www.qualtrics.com). High-fan
+cue trials (nm = 5) were completed in one block and low-fan cue trials (# = 5) were completed in a separate
+block; the order of the blocks was counterbalanced across participants. The Qualtrics interface consisted of
+an instructions page and a response-collection page. For each AUT trial, participants had two minutes to
+type as many alternate uses as possible into textboxes presented on the response-collection page.
+Participants were given a short break between blocks. Following completion of the AUT blocks,
+participants completed a short demographic survey.
+
+Results
+
+Participants’ AUT responses were rated for originality on a 5-point Likert scale designed for
+cognitive studies of DT (Hass et al., 2018) by three AMT participants not involved in the experiment (1 =
+very obvious/ordinary use, 5 = very imaginative/recontextualized use; cf., Hass & Beaty, 2018). Inter-rater
+reliability was assessed with interclass coefficients ICC(2,3), and was generally high across the 10 cues (M
+=.61,SD = 11).
+
+To test whether DT performance varied as a function of fan size, we contrasted fluency and
+originality of AUT responses across the low- and high-fan conditions by computing paired t-test analyses
+on the means. Regarding fluency, participants generated significantly more responses in the high-fan
+condition (M = 5.93, SD = 2.3) compared to the low-fan condition MM = 5.26, SD = 1.85, #35) =4.13, p<
+.001). Regarding originality, participants generated significantly less original responses in the high-fan
+
+condition (M = 2.50, SD = .30) compared to the low-fan condition (IM = 2.72, SD = .34; #35) =-595, p<
+
+10
+Running Head: FANNING CREATIVE THOUGHT
+
+.001). Thus, high-fan AUT items yielded higher fluency but lower originality when compared to low-fan
+AUT items.
+Discussion
+
+The associative theory of creativity implicates spreading activation of concepts within semantic
+memory, but little is yet known about the benefits—and potential costs—of semantic memory in creative
+thinking. Study 1 identified one such benefit and cost of semantic knowledge to performance on a DT task.
+Participants generated more responses during the AUT when using high-fan cues compared to low-fan cues,
+suggesting that greater semantic content benefits ideational fluency. This benefit, however, came at the cost
+of originality: participants generated ideas that were rated as less creative in the high-fan condition. This
+finding is consistent with the notion that salient conceptual information (e.g., high-fan associations) can
+constrain creative thought by acting as a source of interference that must be inhibited to establish more
+
+remote conceptual combinations (Beaty et al., 2017; Chrysikou, 2019).
+
+Study 2
+The goal of Study 1 was to obtain preliminary evidence for the existence of a fan effect in DT. In
+Study 2, we sought to replicate the fan effect in a larger sample of participants using a new online platform
+with greater experimental control than Study 1 (Hass & Beaty, 2018). This platform allowed us to further
+probe potential temporal dynamics of the fan effect. Specifically, we examined whether the fan effect
+interacted with the serial order effect—the tendency for AUT response originality to increase over time
+(Beaty & Silvia, 2012).
+Method
+Participants
+Fifty-five participants were recruited for the study via AMT. We built on the sample size of Study
+1 as a benchmark (n = 40) for replication and increased the sample size based on the availability of funds.
+Participants were offered $4.00 US compensation for completion of the study. No participants” work was
+
+rejected (i.e., all 55 participants were paid), however, a pre-analysis screening procedure identified 14
+
+11
+Running Head: FANNING CREATIVE THOUGHT
+
+participants that failed to provide responses for all 10 cue words and 1 participant that provided random
+responses and thus did not follow directions. The final sample size for analysis was 40 participants (30
+female) with an average age of 38.1 years (SD = 12.07). This study was approved by Jefferson University’s
+institutional review board.
+
+Materials
+
+Stimuli. The same stimuli used in Study 1 were used here (10 AUT cues; 5 low-fan, 5 high-fan).
+
+Divergent thinking task. For each of the ten cue words (low- and high-fan), participants had three
+minutes to generate as many alternate uses as possible. Like Study 1, fluency and originality were computed
+for each participant. Furthermore, we also logged inter-response time (the time between the first key strokes
+of successive responses) and the order of entry of each response.
+
+Using the tools created by the psiTturk project (Gureckis et al., 2016), a custom web application
+was employed for administering the experimental tasks (for details on the platform, see Hass & Beaty,
+2018). Similar to Study 1, the interface consisted of an instructions page and a response-collection interface.
+The instructions page appeared before both blocks of trials (low- and high-fan); after reading instructions,
+participants moved on to the tasks using a navigation button. The task interface consisted of a text-display,
+which contained the object prompt for that trial and a text-entry field. JavaScript code saved the first key
+press per response, the time at which the participant entered the response (by pressing ENTER or
+RETURN), and the text of the response itself.
+
+Procedure
+
+Upon accepting the HIT on MTurk, the psiTurk tools generated the experimental environment.
+Following consent and instructions, participants completed a practice trial to acclimate to the typed-entry
+interface, which involved typing the names of colors that they knew for 30 seconds. Upon completion of
+practice, the first set of experimental trials started. Participants were informed that there would be five trials,
+each with a different object, and each lasting 3 minutes. Low- and high-fan conditions were separated by
+another instruction page which simply reiterated the previous instructions and informed participants that
+
+they could take a short break. The order of blocks and cues within blocks was randomized. Following the
+
+12
+Running Head: FANNING CREATIVE THOUGHT
+
+DT tasks, participants completed a short demographic questionnaire, including their level of engagement
+with the experiment.
+Results
+
+Data Preparation
+
+Participants’ responses were rated for originality on the same 5-point scale as Study 1 (Hass et al.,
+2018) by two research assistants and one AMT worker not involved in the experiment. Inter-rater reliability
+ICC(2,3) ranged from fair to good across the 10 cues (M = 47, SD = .15).
+Participant-level Fluency and Originality
+
+We first attempted to replicate the results of Study 1, by assessing whether fluency and originality
+varied as a function of fan size. Regarding fluency, participants generated significantly more responses in
+the high-fan condition (M = 9.17, SD = 3.42) compared to the low-fan condition M = 8.10, SD = 3.10; t=
+3.84, p < .001). Regarding originality, participants generated significantly less original responses in the
+high-fan condition (M = 2.67, SD = .26) compared to the low-fan condition (M = 3.03, SD = 26 t= 6.47,
+p <.001). These results replicate the findings of Study 1 and suggest that a higher number of associative
+links afforded by high-fan cues may benefits fluency at the cost of originality, potentially due to increased
+interference from salient but semantically similar concepts. Note that mean fluency values were higher in
+this study compared to Study 1 due to longer trials (2 min vs. 3 min) for response-level analysis.
+Response-level effects: IRT and Serial Order
+
+To further investigate potential effects of the fan manipulation, two response-level analyses were
+performed. First, inter-response times (IR Ts) were compared across the two conditions with a mixed-effects
+regression model. To conform to model assumptions (namely normally distributed residuals), IRTs were
+log-transformed and regressed on 1) a fixed-effect of condition (low- vs. high-fan), 2) a random effect of
+participant, and 3) a random effect of prompt. Though mean IRTs were shorter in the high-fan condition
+(M = 14.50s, SD = 13.99s) compared with the low-fan condition (M = 16.14s, SD = 16.63s), the fixed effect
+
+in the log-IRT model was not significant (b = .0004, p = 0.55).
+
+13
+Running Head: FANNING CREATIVE THOUGHT
+
+Next, we examined the relationship between response order and originality rating per cue with a
+
+mixed-effects model. Prior results have illustrated a curvilinear relationship between serial order and
+
+originality (Beaty & Silvia, 2012; Hass & Beaty, 2018) so linear and quadratic serial order terms were
+
+entered into the model. Interactions between condition (low- vs. high-fan) and both serial order terms were
+
+also modeled, along with random effects of participant and prompt. The full model results are presented in
+
+Table 1. There were significant linear (b = 0.039, p <.001) and quadratic trends (b = -0.0016, p = .02), but
+
+the overall difference between low- and high-fan originality was not preserved in this model (b = 0.062, p
+
+= .61). Additionally, there was no significant difference in either the linear (b= 0.025, p= 0.15) or quadratic
+
+slopes (b =-0.016, p = .23) across the fan types (Fig. 1).
+
+Table 1: Quadratic mixed effect model of Originality in Study 2
+
+Fixed Effects B SE Pp
+Intercept 2.03 0.09 <.001
+Serial Order (Linear) 0.04 0.01 <.001
+Serial Order (Quadratic) -0.002 0.10 02
+Fan 0.06 0.12 61
+Linear-Order*Fan 0.03 0.02 15
+Quadratic-Order*Fan -0.002 0.01 23
+Random Effects Name Variance SD
+Participant Intercept 0.05 0.21
+Cue Intercept 0.03 0.17
+Residual 0.46 0.68
+
+Full model: Originality ~ fan + (order — 1) + (order — 1)? + (order -1)*fan + (order — 1)? *fan +
+
+(1]participant) + (1|cue)
+
+3.0
+
+[ed
+wn
+
+Originality Rating
+nN
+o
+
+1.5
+
+0 5 10 15
+
+20
+
+Order of response (rescaled to zero)
+
+Fig. 1: Average originality rating as a function of response order. The first response was rescaled to zero for the
+
+condition
+
+— high-fan
+low—fan
+
+purpose of growth modeling. Lines represent fitted values for each condition based on the multilevel growth model.
+
+14
+Running Head: FANNING CREATIVE THOUGHT
+
+Discussion
+
+The aim of Study 2 was to replicate the results of Study 1 in a larger sample and to examine the
+interaction between the serial order effect (Beaty & Silvia, 2012) and the fan effect. Study 2 replicated the
+results of Study 1: high-fan cues led to increased fluency at a cost of lower originality. While we found a
+main effect of serial order on response originality, in line with previous studies, we did not find a significant
+interaction between serial order and fan-effect. A potential cause for this null finding relates to the effect
+size: the mean originality of low-fan responses (shown in gray) is clearly higher for most responses after
+the 3" response, but the effect is on the order of about a quarter of a point on the 5-point rating scale.
+However, when generating the first few low- or high-fan responses, originality seems to vary less. This
+pattern may be a function of the fact that there are far more data points per participant in these early phases
+of the experiment, or it may be that fan has more of an effect when participants have exhausted a few,
+potentially well-learned responses. When responses are aggregated at the level of participant, these order
+effects are seemingly eliminated, leading to an overall significant uptick in originality for low-fan
+responses.
+
+Also, the design of the psiTurk interface in Study 2 followed a previously used laboratory version
+of the task implemented in Matlab where each cue word appeared after a 5-second pause between the
+responding sessions. That is, it is assumed that participants would pay attention to the cue words and that
+responding to each cue word would start at the beginning of the change in a cue word. Inspection of some
+of the first-RTs from Study 2 indicated that a minority of participants may have become distracted during
+the task and missed the start of cue words. To address this concern, the experimental interface was re-
+
+designed for Study 3 to wait for a spacebar-press from participants before presenting the next cue word.
+
+Study 3
+Studies 1 & 2 established a fan effect in DT. In Study 3, we sought to further replicate and extend
+this finding. Specifically, we employed the same experimental paradigm—rvarying cue set size across AUT
+
+items—and further examined potential interactions with fluid intelligence (Gf), an individual difference
+
+15
+Running Head: FANNING CREATIVE THOUGHT
+
+variable with established links to DT (Beaty & Silvia, 2012). Although Gf has been shown to predict the
+creative quality of DT responses, the cognitive contribution of Gfto creative performance remains largely
+unknown. One possibility is that Gf supports inhibitory control processes, consistent with its strong
+association with executive control (Kane, Hambrick, & Conway, 2005). Thus, Gf may be more relevant for
+high-fan idea generation via the inhibition of salient conceptual knowledge (Beaty & Silvia, 2012). On the
+other hand, Gf may support low-fan generation by facilitating spreading activation within a relatively sparse
+semantic neighborhood. In addition to examining the role of Gf, we further probed temporal dynamics of
+
+the fan effect (i.e., serial order) as a function of cue set size.
+
+Method
+Participants
+
+One hundred thirteen participants (50 females) were recruited from AMT. Sample size was based
+on similar previous studies of divergent thinking and fluid intelligence (Beaty & Silvia, 2012; Benedek et
+al., 2017). The average age of participants was 37.71 years (SD = 10.49). Participants received $5.50 for
+completion of the experiment. Thirty-three participants were excluded from the analysis due to failure to
+successfully complete all tasks or providing nonsensical answers to the open-ended questions. The final
+sample size for the current analysis was 83 participants (41 female, 1 prefer-not-to-answer) with an average
+age of 36.46 years (SD = 9.80). This study was approved by Jefferson University institutional review board.
+Materials
+
+Stimuli. The stimuli used in Study 3 were identical to those used in Study 1.
+
+Divergent Thinking. The DT task used in Study 3 was identical to that used in Study 2. The
+software used to run the task was slightly modified to increase RT precision, i.e., a cue word was not
+displayed until the participant pressed the spacebar.
+
+Fluid Intelligence. Based on Kenett et al. (2016), Gf was assessed via three separate tasks: 1) The
+series task from the Culture Fair Intelligence Test (CFIT), which involves choosing an image that correctly
+
+completes a series of images (13 items, 3 min); 2) A letter-sets task, which presents a series of four-letter
+
+16
+Running Head: FANNING CREATIVE THOUGHT
+
+combinations and requires people to determine which set does not follow a rule governing the other four
+(16 items, 4 min); and 3) A number-series task, which presents a sequence of numbers and requires
+participants to discover a rule governing their change (15 items, 5 min). To compute a general composite
+Gf score, we used principal component analysis, by summing the multiplication of each independent Gf
+score by its weight of the first unrotated principal component (Kenett et al., 2016).
+
+Procedure
+
+The procedure was similar to Study 2 in that data were collected using a custom psiTurk interface.
+Participants completed the DT tasks first, and then psiTurk linked to the Gf tasks, which were hosted via
+
+Qualtrics (www.qualtrics.com). Upon providing electronic consent, participants were presented with an
+
+overall description of their tasks: that they would be prompted to generate ideas about specific cues for
+approximately 30 minutes, and they would then complete some cognitive tasks for another 20 to 30 minutes.
+Participants then completed a practice idea-generation trial to become acclimated to the typed entry
+interface (naming colors). Upon completion of practice, the first set of experimental trials began. The order
+of cues within blocks and block presentation were randomized, and participants had a short break between
+blocks. When the DT tasks were completed, participants were informed that the first half of the experiment
+was complete, and an iFrame within their browser displayed the start of the (Gf tasks hosted on Qualtrics.
+In addition to the Gftasks, participants completed a short demographic survey. When the survey completion
+page of Qualtrics appeared within the iFrame, psiTurk displayed the “submit” button, and participants
+
+submitted their work for approval. Most participants completed the entire experiment within 70 minutes.
+
+Results
+Three raters were trained to score responses for originality using the same 5-point originality scale
+used in Studies 1 and 2 (Hass et al., 2018). Inter-rater reliability was assessed with interclass coefficients
+ICC(2,3), and was generally high across the 10 cues (mean = .68, SD = .12).
+Analyzing the fluency and originality of participants’ responses, the results replicated findings from
+
+Studies 1 and 2: participants generated a significantly higher number of responses to high-fan cues (M =
+
+17
+Running Head: FANNING CREATIVE THOUGHT
+
+7.56, SD = 3.82) than to low-fan cues (M = 6.33, SD = 3.04), (82) = -4.64, p < .001). Furthermore, high-
+fan responses were rated significantly less original (M = 3.04, SD = .33) compared with low-fan responses
+(M=3.12,SD = .44), 182) = 2.14, p< .035).
+
+Next, the relationship between response order and originality rating was examined via a mixed-
+effects model. In our full model, Gf, fan, and serial order were assigned as independent measures, and the
+originality ratings as the dependent measure. Interactions between fan and Gf; interaction between fan and
+serial order, and interaction between Gf and serial order terms were also modeled, along with random effects
+of participant and cue (Table 2).
+
+We first compared this model to a model that only included the random effects and found that this
+model improved the fit to originality ratings, > (6, N = 83) = 105.52, p < .001. Specifically, we found a
+significant positive relation between each of the three main variables (Gf, fan, and order) on participants’
+originality scores. Thus, we replicate and extend the results found in Study 1, and replicate previous findings
+on the effect of Gf on DT (Beaty & Silvia, 2012). As for the effect of the interaction terms, we found
+significant negative relations between both interaction terms (Gf*fan and order*fan) on participants’
+originality scores (Fig. 2). However, due to high collinearity between the serial order variable and the
+interaction of Gf'and serial order variable (» = -.71), the interaction effect of serial order and Gf was not
+significantly related to originality scores in this model.
+
+Table 2: Linear mixed effect model of Originality
+
+Fixed Effects B SE Pp
+Intercept 2.28 0.18 <.001
+Gf 0.05 0.01 <.001
+Fan 0.19 0.10 05
+Order 0.05 0.01 <.001
+Gf*Fan -0.02 0.00 <.001
+Order*Fan -0.02 0.01 <.001
+Random Name Variance SD
+Effects
+
+Participant Intercept 0.09 0.30
+Cue Intercept 0.01 0.09
+Residual 0.65 0.80
+
+Full model: Originality ~ Gf + fan + order + Gf*fan + order*fan + Gf¥order (1|participant) + (1|cue)
+
+18
+Running Head: FANNING CREATIVE THOUGHT
+
+4.00
+o 3.4 o
+£ £ 3.75
+© ©
+xr 32 x
+2 condition 2 3.50 condition
+© — low—fan © — low—fan
+5 3.0 — high-fan 5, — high—fan
+o o 3.25
+2.8
+3.00
+5 10 15 20 25 0 10 20
+Gf Serial Order
+
+Fig. 2: Interaction effects between serial order and fan effect (left) and Gf and fan effect (right) on participant’s
+originality ratings of their DT responses.
+
+Discussion
+
+Study 3 replicated the findings of Studies 1 & 2, and extended them by examining individual
+differences in Gf (Beaty & Silvia, 2012). As in Studies 1 & 2, we found that, compared to low-fan cues,
+high-fan AUT cues yielded increased fluency but decreased originality. Study 3 further examined temporal
+dynamics of this fan effect. Specifically, we replicated the serial order effect in DT—the tendency of idea
+originality to increase over time (Hass & Beaty, 2018)—and showed how this serial order effect interacted
+with both fan size and Gf. Although the 3-way interaction between serial order, fan size, and Gf was not
+significant due to exceedingly high collinearity between these independent variables, we found that
+
+interaction of Gf*fan and Order*fan explained significant variance in originality ratings.
+
+General Discussion
+Divergent thinking tasks are widely used to assess creative thinking, but little is known about the
+basic cognitive processes underlying divergent thinking performance. In three studies, we borrowed a
+classic experimental manipulation from cognitive research on semantic memory known as the fan effect
+(Anderson, 1974)—the tendency for increasing semantic associations to interfere with memory
+performance—and showed that it differentially impacts the quality and quantity of divergent thinking
+
+IESponses.
+
+19
+Running Head: FANNING CREATIVE THOUGHT
+
+In Study 1, we found that although participants generated significantly more responses using high-
+fan AUT cues compared to low-fan cues (i.e., increased fluency), these responses were rated as significantly
+less creative (i.e., decreased originality). In Study 2, we replicated these results and also examined the effect
+of serial order (e.g., responses become more creative over time) and how it relates to the fan-effect. While
+we found an effect of serial order, similar to previous studies (Beaty & Silvia, 2012), we did not find an
+interaction between serial order and fan-effect. This lack of interaction may be due to additional cognitive
+processes, such as cognitive control (Volle, 2018), but such control processes were not assessed in this
+study. In Study 3, we replicated the findings of Studies 1 and 2, and extended them by assessing individual
+differences cognitive control (i.e., Gf). We found that the fan effect for originality varied as a function of
+Gf as Gf'increased, so did originality ratings in the low-fan condition compared to the high-fan condition.
+Taken together, the results extend recent work on the dynamics of memory retrieval and cognitive control
+during creative idea production (Benedek & Fink, 2019; Chrysikou, 2019; Volle, 2018).
+
+These findings inform a growing literature on the role of cognitive control in DT. Consistent with
+past work (Beaty & Silvia, 2012; Benedek et al., 2014), Study 3 found that Gf predicted the originality
+quality of DT responses. Critically, we found that Gf interacted with the fan effect: higher-Gf benefited
+originality with low-fan cues. From a semantic network perspective, the low-fan cues may be embedded in
+a less densely connected semantic neighborhood, potentially blunting spreading activation to remote
+concepts due to less semantic scaffolding (Kenett, 2018b; Mednick, 1962). Thus, one possibility is that Gf
+compensates for such sparse semantic connectivity by driving search processes in a top-down fashion. In
+other words, when less is known about an object, cognitive control may facilitate strategic and deliberate
+conceptual combination.
+
+On the other hand, one might predict Gf to benefit high-fan originality. Because the high-fan cues
+are likely embedded within a relatively denser neighborhood of semantic associations—as reflected by
+higher ideational fluency in the high-fan condition across both studies—these associations may have
+induced interference due to high salience and semantic relatedness. Prior research suggests that salient
+
+concepts can disrupt idea generation by priming what is already known and thus not original (Beaty et al.,
+
+20
+Running Head: FANNING CREATIVE THOUGHT
+
+2017; Chrysikou et al., 2016). Thus, cognitive control could benefit high-fan cues via inhibitory
+mechanisms, i.e., suppressing dominant responses and redirecting search processes (Beaty & Silvia, 2012).
+Notably, however, Study 3 assessed Gf—a proxy measure of general intelligence which shows strong
+correlation with executive processes such as inhibitory control (Kane et al., 2005). Future work might
+resolve this question by examining the contribution of specific executive functions to idea generation under
+similar semantic constraints.
+
+More generally, our findings on a cost-benefit effect of fan size on DT responses extends previous
+findings on linguistic “neighborhood” (phonological, orthographic, semantic) effects (Luce & Pisoni, 1998;
+Mirman & Magnuson, 2008). For example, Mirman and Magnuson (2008) found opposing effects of
+semantic neighbors on word recognition: near neighbors inhibited word recognition, while distant
+neighbors facilitated word recognition. The authors argue that this opposing effect is due an attractor
+dynamic effect: near neighbors act as competing attractors that inhibit word recognition, while distant
+neighbors create a gradient that facilitates settling on the correct (recognized word) attractor (Mirman &
+Magnuson, 2008).
+
+The present research has potential implications for understanding the role of semantic knowledge
+in creative cognition (Kenett, 2018b; Kenett & Faust, 2019). Across three studies, we found a dissociation
+between the quantity and quality of ideas as a function of fan size: more ideas are generated when more
+was “known” about an object—as indexed via semantic associations—but these ideas were deemed to be
+of less creative quality. An interesting direction for future research would be to explore the extent to which
+this effect extends beyond “domain-general” creative performance to specific creative domains. Another
+outstanding question concerns whether the organization of semantic knowledge can be optimized for
+creativity through learning. We suspect that high creative ability is characterized by extensive domain-
+relevant knowledge, and superior access to that knowledge, via its hierarchical organization and top-down
+retrieval.
+
+Finally, it would also be of interest to examine the possible influences of episodic memory retrieval
+
+on some of the effects we have documented. Recent studies have shown that an episodic specificity
+
+21
+Running Head: FANNING CREATIVE THOUGHT
+
+induction that biases reliance on episodic retrieval (for review, see Schacter & Madore, 2016) produces an
+increase in subsequent fluency (and flexibility) but not originality on the AUT (Madore, Addis, & Schacter,
+2015; Madore, Thakral, Beaty, Addis, & Schacter, 2017). However, it is unknown whether or how inducing
+a reliance on episodic retrieval during the AUT would impact the fan effects or individual differences
+observed here. Such studies could help to further our understanding of how both semantic and episodic
+
+memory contribute to creative cognition.
+
+22
+Running Head: FANNING CREATIVE THOUGHT
+
+Acknowledgements
+Daniel L. Schacter was supported by National Institute of Mental Health grant MH060941 and National
+
+Institute on Aging grant AG008441.
+
+Conflict of Interest
+
+The authors declare no conflict of interest.
+
+23
+Running Head: FANNING CREATIVE THOUGHT
+
+References
+
+Abraham, A. (2014). Creative thinking as orchestrated by semantic processing versus cognitive control
+brain networks. Frontiers in Human Neuroscience, 8, 95.
+
+Abraham, A., & Bubic, A. (2015). Semantic memory as the root of imagination. Frontiers in Psychology,
+6,325.
+
+Acar, S., Chen, X., & Cayirdag, N. (2018). Schizophrenia and creativity: A meta-analytic review.
+Schizophrenia Research, 195,23-31.
+
+Anderson, J. R. (1974). Retrieval of propositional information from long-term memory. Cognitive
+psychology, 6(4), 451-474.
+
+Anderson, J. R., & Reder, L. M. (1999). The fan effect: New results and new theories. Journal of
+Experimental Psychology: General, 128(2), 186-197.
+
+Avitia, M. J., & Kaufman, J. C. (2014). Beyond g and c¢: The relationship of rated creativity to long-term
+storage and retrieval (Gir). Psychology of Aesthetics, Creativity, and the Arts, 8(3), 293-302.
+
+Barr, N., Pennycook, G., Stolz, J. A., & Fugelsang, J. A. (2015). Reasoned connections: A dual-process
+perspective on creative thought. Thinking & Reasoning, 21(1), 61-75.
+
+Beaty, R. E., Benedek, M., Silvia, P. J., & Schacter, D. L. (2016). Creative Cognition and Brain Network
+Dynamics. Trends in Cognitive Sciences, 20(2), 87-95.
+
+Beaty, R. E., Christensen, A. P., Benedek, M., Silvia, P. J., & Schacter, D. L. (2017). Creative constraints:
+Brain activity and network dynamics underlying semantic interference during idea production.
+Neurolmage, 148, 189-196.
+
+Beaty, R. E., & Schacter, D. L. (2018). Episodic memory and cognitive control: Contributions to creative
+idea production. In O. Vartanian & R. E. Jung (Eds.), The Cambridge Handbook of the
+
+Neuroscience of Creativity (pp. 249). Cambridge, UK: Cambridge University Press.
+
+24
+Running Head: FANNING CREATIVE THOUGHT
+
+Beaty, R. E., & Silvia, P. J. (2012). Why do ideas get more creative over time? An executive interpretation
+of the serial order effect in divergent thinking tasks. Psychology of Aesthetics, Creativity and the
+Arts, 6(4), 309-319.
+
+Beaty, R. E., Silvia, P. J., Nusbaum, E. C., Jauk, E., & Benedek, M. (2014). The roles of associative and
+executive processes in creative cognition. Memory & Cognition, 42(7), 1-12.
+
+Benedek, M., & Fink, A. (2019). Toward a neurocognitive framework of creative cognition: the role of
+memory, attention, and cognitive control. Current Opinion in Behavioral Sciences, 27,1116-122.
+
+Benedek, M., Jauk, E., Sommer, M., Arendasy, M., & Neubauer, A. C. (2014). Intelligence, creativity, and
+cognitive control: The common and differential involvement of executive functions in intelligence
+and creativity. Intelligence, 46, 73-83.
+
+Benedek, M., Kenett, Y. N., Umdasch, K., Anaki, D., Faust, M., & Neubauer, A. C. (2017). How semantic
+memory structure and intelligence contribute to creative thought: a network science approach.
+Thinking & Reasoning, 23(2), 158-183.
+
+Benedek, M., & Neubauer, A. C. (2013). Revisiting Mednick's model on creativity-related differences in
+associative hierarchies. Evidence for a common path to uncommon thought. The Journal of
+Creative Behavior, 47(4), 273-289.
+
+Buhrmester, M., Kwang, T., & Gosling, S. D. (2011). Amazon's mechanical turk a new source of
+inexpensive, yet high-quality, data? Perspectives on Psychological Science, 6(1), 3-5.
+
+Bunting, M. F., Conway, A. R. A., & Heitz, R. P. (2004). Individual differences in the fan effect and
+working memory capacity. Journal of Memory and Language, 51(4), 604-622.
+
+Christensen, A. P., Kenett, Y. N., Cotter, K. N., Beaty, R. E., & Silvia, P. J. (2018). Remotely close
+associations: Openness to experience and semantic memory structure. European Journal of
+Personality, 32(4), 480-492.
+
+Christensen, P. R., Guilford, J. P., & Wilson, R. C. (1957). Relations of creative responses to working time
+
+and instructions. Journal of Experimental Psychology, 53(2), 82.
+
+25
+Running Head: FANNING CREATIVE THOUGHT
+
+Chrysikou, E. G. (2019). Creativity in and out of (cognitive) control. Current Opinion in Behavioral
+Sciences, 27, 94-99.
+
+Chrysikou, E. G., Motyka, K., Nigro, C., Yang, S.-I., & Thompson-Schill, S. L. (2016). Functional
+fixedness in creative thinking tasks depends on stimulus modality. Psychology of Aesthetics,
+Creativity, and the Arts, 10(4), 425-435.
+
+Chrysikou, E. G., & Weisberg, R. W. (2005). Following the wrong footsteps: fixation effects of pictorial
+examples in a design problem-solving task. Journal of Experimental Psychology: Learning,
+Memory, and Cognition, 31(5), 1134-1145.
+
+Collins, A. M., & Loftus, E. F. (1975). A spreading-activation theory of semantic processing. Psychological
+Review, 82, 407-428.
+
+Gilhooly, K., Fioratou, E., Anthony, S., & Wynn, V. (2007). Divergent thinking: Strategies and executive
+involvement in generating novel uses for familiar objects. British Journal of Psychology, 98(4),
+611-625.
+
+Glucksberg, S., & Weisberg, R. W. (1966). Verbal behavior and problem solving: Some effects of labeling
+in a functional fixedness problem. Journal of Experimental Psychology, 71(5), 659-664.
+
+Gray, K., Anderson, S., Chen, E. E., Kelly, J. M., Christian, M. S., Patrick, J., Huang, L.., Kenett, Y. N., &
+Lewis, K. (2019). “Forward flow”: A new measure to quantify free thought and predict creativity.
+American Psychologist.
+
+Green, A. E. (2016). Creativity, within reason: Semantic distance and dynamic state creativity in relational
+thinking and reasoning. Current Directions in Psychological Science, 25(1), 28-35.
+
+Gureckis, T. M., Martin, J., McDonnell, J., Rich, A. S., Markant, D., Coenen, A., Halpern, D., Hamrick, J.
+B., & Chan, P. (2016). psiTurk: An open-source framework for conducting replicable behavioral
+experiments online. Behavior Research Methods, 48(3), 829-842.
+
+Hass, R. W. (2017). Tracking the dynamics of divergent thinking via semantic distance: Analytic methods
+
+and theoretical implications. Memory & Cognition, 45(2), 233-244.
+
+26
+Running Head: FANNING CREATIVE THOUGHT
+
+Hass, R. W., & Beaty, R. E. (2018). Use or consequences: Probing the cognitive difference between two
+measures of divergent thinking. Frontiers in Psychology, 9(2327).
+
+Hass, R. W., Rivera, M., & Silvia, P. J. (2018). On the dependability and feasibility of layperson ratings of
+divergent thinking. Frontiers in Psychology, 9(1343).
+
+Heinen, D. J. P., & Johnson, D. R. (2018). Semantic distance: An automated measure of creativity that is
+novel and appropriate. Psychology of Aesthetics, Creativity, and the Arts, 12(2), 144-156.
+
+Kane, M. J., Bleckley, M. K., Conway, A. R. A., & Engle, R. W. (2001). A controlled-attention view of
+working-memory capacity. Journal of Experimental Psychology: General, 1302), 169-183.
+
+Kane, M. J., Hambrick, D. 7Z., & Conway, A. R. A. (2005). Working memory capacity and fluid intelligence
+are strongly related constructs: comment on Ackerman, Beier, and Boyle (2005). Psychological
+Bulletin, 131(1), 66-71.
+
+Kaufman, J. C., Plucker, J. A., & Baer, J. (2008). Essentials of creativity assessment (Vol. 53): John Wiley
+& Sons.
+
+Kenett, Y. N. (2018a). Going the extra creative mile: The Role of Semantic distance in creativity — Theory,
+Research, and Measurement. In R. E. Jung & O. Vartanian (Eds.), The Cambridge Handbook of
+the Neuroscience of Creativity (pp. 233-248). New York, NY: Cambridge University Press.
+
+Kenett, Y. N. (2018D). Investigating creativity from a semantic network perspective. In Z. Kapoula & E.
+Volle & J. Renoult & M. Andreatta (Eds.), Exploring Transdisciplinarity in Art and Sciences (pp.
+49-75). Cham: Springer International Publishing.
+
+Kenett, Y. N. (2019). What can quantitative measures of semantic distance tell us about creativity? Current
+Opinion in Behavioral Sciences, 27, 11-16.
+
+Kenett, Y. N., Anaki, D., & Faust, M. (2014). Investigating the structure of semantic networks in low and
+high creative persons. Frontiers in Human Neuroscience, 8(407), 1-16.
+
+Kenett, Y. N., & Austerweil, J. L. (2016). Examining search processes in low and high creative individuals
+
+with random walks. In A. Papafragou & D. Grodner & D. Mirman & J. C. Trueswell (Eds.),
+
+27
+Running Head: FANNING CREATIVE THOUGHT
+
+Proceedings of the 38th Annual Meeting of the Cognitive Science Society (pp. 313-318). Austin,
+TX: Cognitive Science Society.
+
+Kenett, Y. N., Beaty, R. E., Silvia, P. J., Anaki, D., & Faust, M. (2016). Structure and flexibility:
+Investigating the relation between the structure of the mental lexicon, fluid intelligence, and
+creative achievement. Psychology of Aesthetics, Creativity, and the Arts, 10(4), 377-388.
+
+Kenett, Y. N., & Faust, M. (2019). A semantic network cartography of the creative mind. Trends in
+Cognitive Sciences.
+
+Kenett, Y. N., Levy, O., Kenett, D. Y., Stanley, H. E., Faust, M., & Havlin, S. (2018). Flexibility of thought
+in high creative individuals represented by percolation analysis. Proceedings of the National
+Academy of Sciences, 115(5), 867-872.
+
+Kleinmintz, O. M., Ivancovsky, T., & Shamay-Tsoory, S. G. (2019). The twofold model of creativity: the
+neural underpinnings of the generation and evaluation of creative ideas. Current Opinion in
+Behavioral Sciences, 27, 131-138.
+
+Luce, P. A., & Pisoni, D. B. (1998). Recognizing spoken words: The neighborhood activation model. Ear
+and Hearing, 19(1), 1-36.
+
+Madore, K. P., Addis, D. R., & Schacter, D. L. (2015). Creativity and memory: Effects of an episodic-
+specificity induction on divergent thinking. Psychological Science, 26(9), 1461-1468.
+
+Madore, K. P., Thakral, P. P., Beaty, R. E., Addis, D. R., & Schacter, D. L. (2017). Neural mechanisms of
+episodic retrieval support divergent creative thinking. Cerebral Cortex, 29(1), 150-166.
+
+Marsh, R. L., Landau, J. D., & Hicks, J. L. (1996). How examples may (and may not) constrain creativity.
+Memory & Cognition, 24(5), 669-680.
+
+Mednick, S., A. (1962). The associative basis of the creative process. Psychological Review, 69(3), 220-
+232.
+
+Mirman, D., & Magnuson, J. S. (2008). Attractor dynamics and semantic neighborhood density: Processing
+
+is slowed by near neighbors and speeded by distant neighbors. Journal of
+
+28
+Running Head: FANNING CREATIVE THOUGHT
+
+Experimental Psychology: Learning, Memory, and Cognition, 34(1), 65-79.
+
+Nelson, D. L., McEvoy, C. L., & Schreiber, T. A. (2004). The University of South Florida free association,
+rhyme, and word fragment norms. Behavior Research Methods, Instruments, & Computers, 36(3),
+402-407.
+
+Nusbaum, E. C., & Silvia, P. J. (2011). Are intelligence and creativity really so different?: Fluid
+intelligence, executive processes, and strategy use in divergent thinking. Intelligence, 39(1), 36-45.
+
+Radvansky, G. A. (1999). Memory retrieval and suppression: The inhibition of situation models. Journal
+of Experimental Psychology: General, 128(4), 563-579.
+
+Rominger, C., Papousek, I., Perchtold, C. M., Benedek, M., Weiss, E. M., Schwerdtfeger, A., & Fink, A.
+(2019). Creativity is associated with a characteristic U-shaped function of alpha power changes
+accompanied by an early increase in functional coupling. Cognitive, Affective, & Behavioral
+Neuroscience, 1-10.
+
+Runco, M. A., & Acar, S. (2012). Divergent thinking as an indicator of creative potential. Creativity
+Research Journal, 24(1), 66-75.
+
+Schacter, D. L., & Madore, K. P. (2016). Remembering the past and imagining the future: Identifying and
+enhancing the contribution of episodic memory. Memory Studies, 9(3), 245-255.
+
+Silvia, P. J., Beaty, R. E., & Nusbaum, E. C. (2013). Verbal fluency and creativity: General and specific
+contributions of broad retrieval ability (Gr) factors to divergent thinking. Intelligence, 41(5), 328-
+340.
+
+Smith, S. M., & Blankenship, S. E. (1991). Incubation and the persistence of fixation in problem solving.
+The American Journal of Psychology, 104(1), 61-87.
+
+Smith, S. M., Ward, T. B., & Schumacher, J. S. (1993). Constraining effects of examples in a creative
+generation task. Memory & Cognition, 21(6), 837-845.
+
+Sowden, P. T., Pringle, A., & Gabora, L. (2014). The shifting sands of creative thinking: Connections to
+
+dual-process theory. Thinking & Reasoning, 21(1), 40-60.
+
+29
+Running Head: FANNING CREATIVE THOUGHT
+
+Torrance, E. P. (1972). Predictive validity of the Torrance tests of creative thinking. The Journal of Creative
+Behavior, 6(4), 236-262.
+
+Volle, E. (2018). Associative and controlled cognition in divergent thinking: Theoretical, experimental,
+neuroimaging evidence, and new directions. In R. E. Jung & O. Vartanian (Eds.), The Cambridge
+handbook of the neuroscience of creativity (pp. 333-362). New York, NY: Cambridge University
+Press.
+
+Wang, M., Hao, N., Ku, Y., Grabner, R. H., & Fink, A. (2017). Neural correlates of serial order effect in
+
+verbal divergent thinking. Neuropsychologia, 99, 92-100.
+
+30
